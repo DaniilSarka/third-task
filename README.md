@@ -3,6 +3,10 @@
 My name is **Sarychev Danya**
 ## im studying in Netology
 
+### GIT is interesting and useful tool
+
+
+
 _30.04.2023_
 
 !["кот в очках"][def]   
